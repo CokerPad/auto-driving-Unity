@@ -121,8 +121,8 @@
 -define:NO_COV_EDITORPREF
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"E:/c#/Auto-driver/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
--r:"E:/c#/Auto-driver/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"E:/c#/Auto-driver/auto-driving-Unity/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"E:/c#/Auto-driver/auto-driving-Unity/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"E:/Program Files/Unity 2021.3.2f1c1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"E:/Program Files/Unity 2021.3.2f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"E:/Program Files/Unity 2021.3.2f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
