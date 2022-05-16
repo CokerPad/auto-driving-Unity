@@ -11,19 +11,19 @@ E:\Program Files\2020.3.25f1c1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-E:/c#/auto-driver-Unity
+E:/c#/Auto-driver/auto-driving-Unity/auto-driver-Unity
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-7648
-Successfully changed project path to: E:/c#/auto-driver-Unity
-E:/c#/auto-driver-Unity
+8297
+Successfully changed project path to: E:/c#/Auto-driver/auto-driving-Unity/auto-driver-Unity
+E:/c#/Auto-driver/auto-driving-Unity/auto-driver-Unity
 Using Asset Import Pipeline V2.
-AS: AutoStreaming module initializing.Refreshing native plugins compatible for Editor in 26.70 ms, found 2 plugins.
+AS: AutoStreaming module initializing.Refreshing native plugins compatible for Editor in 29.04 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.25f1c1 (fd09ccef852e)
 [Subsystems] Discovering subsystems at path E:/Program Files/2020.3.25f1c1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path E:/c#/auto-driver-Unity/Assets
+[Subsystems] Discovering subsystems at path E:/c#/Auto-driver/auto-driving-Unity/auto-driver-Unity/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,74 +35,74 @@ Initialize mono
 Mono path[0] = 'E:/Program Files/2020.3.25f1c1/Editor/Data/Managed'
 Mono path[1] = 'E:/Program Files/2020.3.25f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'E:/Program Files/2020.3.25f1c1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56128
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56504
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: E:/Program Files/2020.3.25f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000790 seconds.
+Registered in 0.000752 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 27.38 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 32.44 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unable to find bridge dll in registry for Microsoft Visual Studio Tools for Unity for E:/Program Files/Common7/IDE/devenv.exe
 Mono: successfully reloaded assembly
-- Completed reload, in  0.484 seconds
+- Completed reload, in  0.481 seconds
 Domain Reload Profiling:
-	ReloadAssembly (484ms)
-		BeginReloadAssembly (48ms)
+	ReloadAssembly (481ms)
+		BeginReloadAssembly (50ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (380ms)
-			LoadAssemblies (47ms)
+		EndReloadAssembly (376ms)
+			LoadAssemblies (49ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (136ms)
+			SetupTypeCache (129ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (27ms)
-			SetupLoadedEditorAssemblies (134ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (138ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (27ms)
-				BeforeProcessingInitializeOnLoad (12ms)
+				RefreshPlugins (33ms)
+				BeforeProcessingInitializeOnLoad (11ms)
 				ProcessInitializeOnLoadAttributes (67ms)
-				ProcessInitializeOnLoadMethodAttributes (24ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002860 seconds.
+Registered in 0.003049 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.840 seconds
+- Completed reload, in  0.827 seconds
 Domain Reload Profiling:
-	ReloadAssembly (841ms)
-		BeginReloadAssembly (129ms)
+	ReloadAssembly (827ms)
+		BeginReloadAssembly (123ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (16ms)
-		EndReloadAssembly (666ms)
-			LoadAssemblies (75ms)
+		EndReloadAssembly (657ms)
+			LoadAssemblies (76ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (240ms)
+			SetupTypeCache (231ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (37ms)
-			SetupLoadedEditorAssemblies (240ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (244ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (63ms)
+				BeforeProcessingInitializeOnLoad (65ms)
 				ProcessInitializeOnLoadAttributes (165ms)
-				ProcessInitializeOnLoadMethodAttributes (7ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
 				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -111,14 +111,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 67.5 MB.
-System memory in use after: 67.5 MB.
+Unloading 1501 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.7 MB.
+System memory in use after: 68.8 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1933.
-Total: 2.315000 ms (FindLiveObjects: 0.126700 ms CreateObjectMapping: 0.048800 ms MarkObjects: 2.095300 ms  DeleteObjects: 0.043500 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1934.
+Total: 2.340500 ms (FindLiveObjects: 0.158800 ms CreateObjectMapping: 0.045900 ms MarkObjects: 2.093500 ms  DeleteObjects: 0.041400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -133,17 +133,746 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Prefabs
-  artifactKey: Guid(9421986c7b4348541852b9e39703de66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs using Guid(9421986c7b4348541852b9e39703de66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71931e8f1f2198fbc71db253b4fa73d8') in 0.007297 seconds 
-  Import took 0.009115 seconds .
+  path: Assets/Final Form Studio/Cars/Sedan-car-01
+  artifactKey: Guid(7beed5789acb8034cb64de7fb9eb476b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/Sedan-car-01 using Guid(7beed5789acb8034cb64de7fb9eb476b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb95912423faf8dddade3692ec3690a7') in 0.010817 seconds 
+  Import took 0.013232 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.978150 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(d93a431fbf34dca41b2f5866b9f58cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(d93a431fbf34dca41b2f5866b9f58cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4afe519d4327d852e82d8c82129db37a') in 0.006332 seconds 
-  Import took 0.008552 seconds .
+  Time since last request: 0.044422 seconds.
+  path: Assets/Final Form Studio/Cars/Sedan-car-01/sedan-car-01.fbx
+  artifactKey: Guid(d1e985c0fb2658c4bb66c0dd53fe253c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/Sedan-car-01/sedan-car-01.fbx using Guid(d1e985c0fb2658c4bb66c0dd53fe253c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d38f64848112a3774fad23af6e79ed') in 0.462365 seconds 
+  Import took 0.464927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Final Form Studio/Cars/Sedan-car-01/wheel.fbx
+  artifactKey: Guid(7fc5e78f5bf33a04e9490bb5454fc968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/Sedan-car-01/wheel.fbx using Guid(7fc5e78f5bf33a04e9490bb5454fc968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c310aaadd0b104814c8f4afd1b8965') in 0.050450 seconds 
+  Import took 0.052576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.263215 seconds.
+  path: Assets/Final Form Studio/Cars/Sedan-car-01/prefab
+  artifactKey: Guid(d936737da922ac9429d10fe931994690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/Sedan-car-01/prefab using Guid(d936737da922ac9429d10fe931994690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c05b3b5f3d0f90d7781d963e17b1a953') in 0.007425 seconds 
+  Import took 0.009647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049252 seconds.
+  path: Assets/Final Form Studio/Cars/Sedan-car-01/prefab/sedan-car-01.prefab
+  artifactKey: Guid(5e1f1e4eda7b3f84a95afae22bd7c87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/Sedan-car-01/prefab/sedan-car-01.prefab using Guid(5e1f1e4eda7b3f84a95afae22bd7c87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7924a0f2610b8e11af48d71ed8388486') in 0.023667 seconds 
+  Import took 0.026895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.852579 seconds.
+  path: Assets/Final Form Studio/Cars/Sedan-car-01/materials_textures/body-color.mat
+  artifactKey: Guid(40430770f4a9ba248b77f7117b72b256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/Sedan-car-01/materials_textures/body-color.mat using Guid(40430770f4a9ba248b77f7117b72b256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a0b73dcdd6eb7e25057dad9dfa5c4ca') in 0.016054 seconds 
+  Import took 0.018795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Final Form Studio/Cars/Sedan-car-01/materials_textures/sedan-car-01.png
+  artifactKey: Guid(1bf763cfac8bff74d9dc6bf34a84313c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/Sedan-car-01/materials_textures/sedan-car-01.png using Guid(1bf763cfac8bff74d9dc6bf34a84313c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '968be8283dfce9b12673f6e7faaa7611') in 0.027014 seconds 
+  Import took 0.029241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Final Form Studio/Cars/Sedan-car-01/materials_textures/rim-albedo.png
+  artifactKey: Guid(23ca3f9ce212d644dabeb5684bd113ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/Sedan-car-01/materials_textures/rim-albedo.png using Guid(23ca3f9ce212d644dabeb5684bd113ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a155d4f3179e7794e5efd406a969acd1') in 0.017020 seconds 
+  Import took 0.019356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Final Form Studio/Cars/Sedan-car-01/materials_textures/body-matte-parts.mat
+  artifactKey: Guid(0600b60f2501f9f4680e105c3725b63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/Sedan-car-01/materials_textures/body-matte-parts.mat using Guid(0600b60f2501f9f4680e105c3725b63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208b66124cd952e84847b80dafc45db8') in 0.016474 seconds 
+  Import took 0.019519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Final Form Studio/Cars/Sedan-car-01/materials_textures/rim.mat
+  artifactKey: Guid(de0556ea9a737764795a1577ea8a960c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/Sedan-car-01/materials_textures/rim.mat using Guid(de0556ea9a737764795a1577ea8a960c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dda79acd300f8f64b3e427ef075f89fb') in 0.016564 seconds 
+  Import took 0.019229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.816913 seconds.
+  path: Assets/Final Form Studio/Cars/_common-textures/brake-lights.mat
+  artifactKey: Guid(e3d9e31be84590941929a82dae109279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/_common-textures/brake-lights.mat using Guid(e3d9e31be84590941929a82dae109279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7939381cf77d97e83b1b7f030716d818') in 0.016010 seconds 
+  Import took 0.018451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Final Form Studio/Cars/_common-textures/tire-brakes.mat
+  artifactKey: Guid(b40303d08e22be84692b66af1fb48510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/_common-textures/tire-brakes.mat using Guid(b40303d08e22be84692b66af1fb48510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdbc616e19c644c9c31d4343a306108c') in 0.016463 seconds 
+  Import took 0.019018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Final Form Studio/Cars/_common-textures/tire_diffuse.png
+  artifactKey: Guid(3214a9cd8ff207446951e63707ca0d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/_common-textures/tire_diffuse.png using Guid(3214a9cd8ff207446951e63707ca0d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25cf62d069b13e728a6c22e6c92cd509') in 0.018224 seconds 
+  Import took 0.021061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Final Form Studio/Cars/_common-textures/orange-lights.mat
+  artifactKey: Guid(d3e03ede2aad4b8459875c68d65929c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/_common-textures/orange-lights.mat using Guid(d3e03ede2aad4b8459875c68d65929c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66517f5025df6582666e856314b31484') in 0.016587 seconds 
+  Import took 0.018963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Final Form Studio/Cars/_common-textures/leds-rear.mat
+  artifactKey: Guid(54ec127daf14ab945936a7282f19effe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/_common-textures/leds-rear.mat using Guid(54ec127daf14ab945936a7282f19effe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a092ba2b48331b7eb2e4996fd0b425b') in 0.017435 seconds 
+  Import took 0.020039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Final Form Studio/Cars/_common-textures/xeon-lights.mat
+  artifactKey: Guid(7b9f2987cbfbb5342bcdb652ac8e169c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/_common-textures/xeon-lights.mat using Guid(7b9f2987cbfbb5342bcdb652ac8e169c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f58c95c909f61c5263583219897acc6') in 0.017469 seconds 
+  Import took 0.019997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Final Form Studio/Cars/_common-textures/glass.mat
+  artifactKey: Guid(ae620c4242c52604592822d3e95e7c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/_common-textures/glass.mat using Guid(ae620c4242c52604592822d3e95e7c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '706345555973516af63766c5f21dcf86') in 0.016550 seconds 
+  Import took 0.019654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Final Form Studio/Cars/_common-textures/white-lights.mat
+  artifactKey: Guid(2293ba2c3f385a046b10ac966bf8c75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/_common-textures/white-lights.mat using Guid(2293ba2c3f385a046b10ac966bf8c75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fedfe83ef154ddc6fb8d7d604001017') in 0.016380 seconds 
+  Import took 0.019034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Final Form Studio/Cars/_common-textures/mirrors.mat
+  artifactKey: Guid(7930fb2e9e9f0d045a6996d3a9e8bc95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cars/_common-textures/mirrors.mat using Guid(7930fb2e9e9f0d045a6996d3a9e8bc95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ace9dbc44cda27c83eeb1a839bf58548') in 0.016940 seconds 
+  Import took 0.019410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.055149 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Scripts
+  artifactKey: Guid(22a92dda8b126ff4796f9e84ae1c8871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Scripts using Guid(22a92dda8b126ff4796f9e84ae1c8871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f57ba04317995f6d616588b7357a6aff') in 0.006164 seconds 
+  Import took 0.009048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.590159 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Settings/HDRenderPipelineAsset.asset
+  artifactKey: Guid(3927e36d6d8a64b4ebb7c2d46f265d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Settings/HDRenderPipelineAsset.asset using Guid(3927e36d6d8a64b4ebb7c2d46f265d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8193b12e779e8a4e3177531b224d3cb8') in 0.009868 seconds 
+  Import took 0.012957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Settings/SSSSettings.asset
+  artifactKey: Guid(26bdddf49760c61438938733f07fa2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Settings/SSSSettings.asset using Guid(26bdddf49760c61438938733f07fa2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '637681a6be2a1bd83239f6270a524d2d') in 0.008422 seconds 
+  Import took 0.011081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Settings/VolumeSettings_Baking.asset
+  artifactKey: Guid(112daeb737097bd42b9690c053885531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Settings/VolumeSettings_Baking.asset using Guid(112daeb737097bd42b9690c053885531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30cfd862a8fa49c7a0a70b7c9bd1b71e') in 0.008190 seconds 
+  Import took 0.010835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Settings/VolumeSettings.asset
+  artifactKey: Guid(dab0766de4a4b5349b80ce1a86555414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Settings/VolumeSettings.asset using Guid(dab0766de4a4b5349b80ce1a86555414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f99e7010c19dd60b0c378d5020b5ecf6') in 0.009005 seconds 
+  Import took 0.011813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Settings/PostProcessVolumeProfile.asset
+  artifactKey: Guid(a913c2f8a8dfe934f97893479d5296dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Settings/PostProcessVolumeProfile.asset using Guid(a913c2f8a8dfe934f97893479d5296dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593d673752b8674171b6c174cd71abce') in 0.008450 seconds 
+  Import took 0.010961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.825850 seconds.
+  path: Assets/Prefabs/sedan-car-01.prefab
+  artifactKey: Guid(4db5b04341a72d945b9e2c73c1e495ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/sedan-car-01.prefab using Guid(4db5b04341a72d945b9e2c73c1e495ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a9e0e7697f44fcd0d242b45fdd4707') in 0.021555 seconds 
+  Import took 0.024753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.917847 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Presets
+  artifactKey: Guid(2754f8cebe196654cbc72d1885ebcf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Presets using Guid(2754f8cebe196654cbc72d1885ebcf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e1d2031787af3bf16952846ca0db6d6') in 0.007798 seconds 
+  Import took 0.010803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030183 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Presets/AudioCompressedInMemory.preset
+  artifactKey: Guid(e18fd6ecd9cdb524ca99844f39b9d9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Presets/AudioCompressedInMemory.preset using Guid(e18fd6ecd9cdb524ca99844f39b9d9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9babca6d62982fdefc3cf863337affb9') in 0.010413 seconds 
+  Import took 0.012872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Presets/HDRTexture.preset
+  artifactKey: Guid(78830bb1431cab940b74be615e2a739f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Presets/HDRTexture.preset using Guid(78830bb1431cab940b74be615e2a739f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9518a013a2ea878fe00856341dbd5d3') in 0.010911 seconds 
+  Import took 0.013445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Presets/NormalTexture.preset
+  artifactKey: Guid(1d826a4c23450f946b19c20560595a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Presets/NormalTexture.preset using Guid(1d826a4c23450f946b19c20560595a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b4a14f7c12bfbda12bc046a1c29816') in 0.010177 seconds 
+  Import took 0.012684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Presets/AudioStreaming.preset
+  artifactKey: Guid(460e573eb8466884baaa0b8475505f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Presets/AudioStreaming.preset using Guid(460e573eb8466884baaa0b8475505f83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c502c9d4388bf556fb079a0c49ba6bc5') in 0.008060 seconds 
+  Import took 0.010483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Presets/UtilityTexture.preset
+  artifactKey: Guid(9303d565bd8aa6948ba775e843320e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Presets/UtilityTexture.preset using Guid(9303d565bd8aa6948ba775e843320e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd6c26dadb3a0854770eaa007d23d31b') in 0.009681 seconds 
+  Import took 0.012410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.119677 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Presets/Defaults
+  artifactKey: Guid(62d01720aebe09744845cc69fc236e31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Presets/Defaults using Guid(62d01720aebe09744845cc69fc236e31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8c023e0e59faa7c6154dfe00f9f8f1c') in 0.008439 seconds 
+  Import took 0.011085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053672 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Presets/Defaults/AlbedoTexture_Default.preset
+  artifactKey: Guid(7a99f8aa944efe94cb9bd74562b7d5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Presets/Defaults/AlbedoTexture_Default.preset using Guid(7a99f8aa944efe94cb9bd74562b7d5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d433c4d9a8ceb766912e9bd37affb4') in 0.007716 seconds 
+  Import took 0.010045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Presets/Defaults/SSSSettings_Default.preset
+  artifactKey: Guid(8fa3055e2a1363246838debd20206d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Presets/Defaults/SSSSettings_Default.preset using Guid(8fa3055e2a1363246838debd20206d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f193cd46d2127c1abda6faaf768a812') in 0.007848 seconds 
+  Import took 0.010496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Presets/Defaults/DirectionalLight_Default.preset
+  artifactKey: Guid(c1cf8506f04ef2c4a88b64b6c4202eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Presets/Defaults/DirectionalLight_Default.preset using Guid(c1cf8506f04ef2c4a88b64b6c4202eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb79307564d6889e56e8885eb9bec3a') in 0.008858 seconds 
+  Import took 0.011628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Presets/Defaults/AudioDecompressOnLoad_Default.preset
+  artifactKey: Guid(0cd792cc87e492d43b4e95b205fc5cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Presets/Defaults/AudioDecompressOnLoad_Default.preset using Guid(0cd792cc87e492d43b4e95b205fc5cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d6428c51f526486b3b4ef40eab98a1') in 0.008665 seconds 
+  Import took 0.011196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.617920 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures
+  artifactKey: Guid(5086be39386326844a76eab6e8c30b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures using Guid(5086be39386326844a76eab6e8c30b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b4e0146b7d2093d3a91f1f271e668dc') in 0.008676 seconds 
+  Import took 0.011154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065720 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/cliff.mat
+  artifactKey: Guid(b8a1503afd257a9498a086443ece3b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/cliff.mat using Guid(b8a1503afd257a9498a086443ece3b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f3a4b7cebb79a149c904b8e7edc92f') in 0.016229 seconds 
+  Import took 0.018720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/date palm leaf_s.png
+  artifactKey: Guid(afaa22d1f02d1e14fb222cc41f5c403a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/date palm leaf_s.png using Guid(afaa22d1f02d1e14fb222cc41f5c403a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25330b64237578fc0730646105bb1a0e') in 0.017190 seconds 
+  Import took 0.019565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/rocks1_MetallicSmoothness.png
+  artifactKey: Guid(41a41f92bf9977643a88d2b898779140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/rocks1_MetallicSmoothness.png using Guid(41a41f92bf9977643a88d2b898779140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4b9c90e6e9f18516657dbef28b827fc') in 0.018149 seconds 
+  Import took 0.020545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/date palm leaf_t.png
+  artifactKey: Guid(ec34630d4d1e53845800357d80605131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/date palm leaf_t.png using Guid(ec34630d4d1e53845800357d80605131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb97a26173a2b904b6b3d57af11c6d04') in 0.016360 seconds 
+  Import took 0.018799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/water-norm.png
+  artifactKey: Guid(190e1b36384a1d14786158a403389a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/water-norm.png using Guid(190e1b36384a1d14786158a403389a1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c667e37d1231a55f4c4cd42154b147bc') in 0.026402 seconds 
+  Import took 0.029299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/date palm leaf_n.png
+  artifactKey: Guid(060e624f773fbfb4b85118fd8d691ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/date palm leaf_n.png using Guid(060e624f773fbfb4b85118fd8d691ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351b5cf0f9b3f0f0faf35552bb1f70c6') in 0.016809 seconds 
+  Import took 0.019352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/rocks1.mat
+  artifactKey: Guid(a05dd72c5aa1be7468868a4bcfd050b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/rocks1.mat using Guid(a05dd72c5aa1be7468868a4bcfd050b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4c263b4df37d9ca918da77bb7ca4008') in 0.016305 seconds 
+  Import took 0.019340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/date palm leaf.png
+  artifactKey: Guid(829c896c9493e5048beb36fb6acda24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/date palm leaf.png using Guid(829c896c9493e5048beb36fb6acda24d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cefbf7ae450e29e374e6399451624359') in 0.017483 seconds 
+  Import took 0.019878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/road.mat
+  artifactKey: Guid(0afa1307c2a2e8d41bfea48f10ed8005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/road.mat using Guid(0afa1307c2a2e8d41bfea48f10ed8005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2985a4e77ef64ca202a3478f0b3a921') in 0.017987 seconds 
+  Import took 0.020365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/umhlanga_sunrise_4k.hdr
+  artifactKey: Guid(f514e912e20a3764496f3f0ced5fcdce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/umhlanga_sunrise_4k.hdr using Guid(f514e912e20a3764496f3f0ced5fcdce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e708118a6c312a7a318bc1550937cc1') in 0.075720 seconds 
+  Import took 0.079418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/road-met.png
+  artifactKey: Guid(e8442cc21e467e0428bd7cc5bc8323ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/road-met.png using Guid(e8442cc21e467e0428bd7cc5bc8323ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ae6a9a346ac453e6c9080ff6ea87ca4') in 0.015065 seconds 
+  Import took 0.017505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/water-met.png
+  artifactKey: Guid(ce9964ccc52922643ae46a18cdf11d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/water-met.png using Guid(ce9964ccc52922643ae46a18cdf11d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8aac1a2d938bcd8d4275727cee4c4ab') in 0.018221 seconds 
+  Import took 0.020637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/rocks1_AlbedoTransparency.png
+  artifactKey: Guid(0ec350594a16a95408d3d326d90e4d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/rocks1_AlbedoTransparency.png using Guid(0ec350594a16a95408d3d326d90e4d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd74d720dec0f876456a62dda31de26') in 0.016617 seconds 
+  Import took 0.018732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/cliff_low_cliff1_Normal.png
+  artifactKey: Guid(6ae8d46fbc7a6234da3bcef6b4b96bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/cliff_low_cliff1_Normal.png using Guid(6ae8d46fbc7a6234da3bcef6b4b96bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68c3beaff4d84fe6e375a4e937b50916') in 0.020530 seconds 
+  Import took 0.022654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/palm-tree-leaves.mat
+  artifactKey: Guid(99f66698ff7562745a97a8ca3724b747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/palm-tree-leaves.mat using Guid(99f66698ff7562745a97a8ca3724b747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d9d91855936670ac0f42ab48b36a69d') in 0.015457 seconds 
+  Import took 0.017562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/kloofendal_48d_partly_cloudy_4k.hdr
+  artifactKey: Guid(2c71e016f58a6e344a152949b2a99e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/kloofendal_48d_partly_cloudy_4k.hdr using Guid(2c71e016f58a6e344a152949b2a99e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3480f11ba68ebb5d3508f1148a4d79d') in 0.038591 seconds 
+  Import took 0.042692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/palm02_s.png
+  artifactKey: Guid(748f50f580180334f8812cac7a13b2c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/palm02_s.png using Guid(748f50f580180334f8812cac7a13b2c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0009c8b4667ab98035e01201fb0e8745') in 0.016760 seconds 
+  Import took 0.019272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/water.mat
+  artifactKey: Guid(c0c356e2fc8e5f643ae41a7e4d23f9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/water.mat using Guid(c0c356e2fc8e5f643ae41a7e4d23f9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f349ab76d6eb3ce5d7358f292678a72f') in 0.016452 seconds 
+  Import took 0.019102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/road-nrm.png
+  artifactKey: Guid(8e0aca82d4b59d445b942dc7b866d6b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/road-nrm.png using Guid(8e0aca82d4b59d445b942dc7b866d6b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2a6775d80c7402aab3bb93de676e939') in 0.019718 seconds 
+  Import took 0.022364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/cliff_low_cliff1_AlbedoTransparency.png
+  artifactKey: Guid(abf80fc9b3d6c014c9509995ed8874b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/cliff_low_cliff1_AlbedoTransparency.png using Guid(abf80fc9b3d6c014c9509995ed8874b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa26106a54dd6c57ac360ed8fbeb2a8e') in 0.018461 seconds 
+  Import took 0.020940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/road-diff.png
+  artifactKey: Guid(bef7481e8ab49cf4e823558f1535d92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/road-diff.png using Guid(bef7481e8ab49cf4e823558f1535d92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '153d9b43b80931f9fad8216b26a049bb') in 0.017159 seconds 
+  Import took 0.019624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/palm02_n.png
+  artifactKey: Guid(f365b4a16608bae4da3e6ead54169e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/palm02_n.png using Guid(f365b4a16608bae4da3e6ead54169e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1afaa2bcb5976d87d240d1b21534ab') in 0.017767 seconds 
+  Import took 0.020427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/rocks1_Normal.png
+  artifactKey: Guid(5e6b29c0e03d30b4fa61e94d13a24a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/rocks1_Normal.png using Guid(5e6b29c0e03d30b4fa61e94d13a24a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18d52fc66a4822f5cc5db5da157ac741') in 0.020871 seconds 
+  Import took 0.023383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/water.png
+  artifactKey: Guid(8e3ef808a1e91dd419205ce25caea333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/water.png using Guid(8e3ef808a1e91dd419205ce25caea333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec3588830234a92d15affe9322cdb35') in 0.017005 seconds 
+  Import took 0.019363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/palm02.png
+  artifactKey: Guid(8af4a107ce553754996bb464b87c450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/palm02.png using Guid(8af4a107ce553754996bb464b87c450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80723a96d92425b2506e67fd17a3c4cb') in 0.017869 seconds 
+  Import took 0.020871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/palm-tree-bark.mat
+  artifactKey: Guid(1eb279e37d32c304899861e7306a8f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/palm-tree-bark.mat using Guid(1eb279e37d32c304899861e7306a8f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf48227a51f77cbd0fd912f11e4439c9') in 0.017743 seconds 
+  Import took 0.020167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/cliff_low_cliff1_MetallicSmoothness.png
+  artifactKey: Guid(ce230efc2ebd52b4cb2a171e6eedb11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Materials and Textures/cliff_low_cliff1_MetallicSmoothness.png using Guid(ce230efc2ebd52b4cb2a171e6eedb11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '718c836fca1cfc55c7a539ad0d12e8da') in 0.017511 seconds 
+  Import took 0.019859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.274452 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Meshes/cliff.fbx
+  artifactKey: Guid(6fbd6a7af6e737145a8ac95bb4d54086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Meshes/cliff.fbx using Guid(6fbd6a7af6e737145a8ac95bb4d54086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81ba93bc4e4e1ee534b690ceb13dcebf') in 0.022567 seconds 
+  Import took 0.025141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Meshes/rock1_c.FBX
+  artifactKey: Guid(5a88a0b58af7ee140838ea6edfdc9585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Meshes/rock1_c.FBX using Guid(5a88a0b58af7ee140838ea6edfdc9585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3ad0f136e21d44bf151f13c630b737') in 0.025667 seconds 
+  Import took 0.028131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Meshes/palm1.fbx
+  artifactKey: Guid(e466a263180edbc498d85ff792c2e53f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Meshes/palm1.fbx using Guid(e466a263180edbc498d85ff792c2e53f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d9d2915b6234de62eefa488965af138') in 0.040493 seconds 
+  Import took 0.042910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Meshes/rock1_d.FBX
+  artifactKey: Guid(ff345eb821740b944a74f1037a4004a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Meshes/rock1_d.FBX using Guid(ff345eb821740b944a74f1037a4004a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78d211ef1903ee5197b72e24b21ca72') in 0.025343 seconds 
+  Import took 0.027862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Meshes/Plane.prefab
+  artifactKey: Guid(e0b39f08edf968f48ae2e81e21bbb69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Meshes/Plane.prefab using Guid(e0b39f08edf968f48ae2e81e21bbb69b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0a56a2f1828cec1be121d81bbdd0d7a') in 0.017501 seconds 
+  Import took 0.020186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Meshes/road.fbx
+  artifactKey: Guid(220dc40546410aa4bbf9b997ab07dcf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Meshes/road.fbx using Guid(220dc40546410aa4bbf9b997ab07dcf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52410f424e3340f7255f534bbb71373a') in 0.025392 seconds 
+  Import took 0.027937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Meshes/rock1_a.FBX
+  artifactKey: Guid(635d01881084cb545bf305255bc2b4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Meshes/rock1_a.FBX using Guid(635d01881084cb545bf305255bc2b4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea8ef9aae879d132abaff29fad92686') in 0.025696 seconds 
+  Import took 0.028116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Meshes/rock1_b.FBX
+  artifactKey: Guid(7ff606f7f5f9949408508e230019cc67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Meshes/rock1_b.FBX using Guid(7ff606f7f5f9949408508e230019cc67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3138900730b1c21935672416c8ea2df') in 0.024387 seconds 
+  Import took 0.026897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.788874 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Prefabs/cliff.prefab
+  artifactKey: Guid(d65cea9e9c9104045bf93360db6bfc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Prefabs/cliff.prefab using Guid(d65cea9e9c9104045bf93360db6bfc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad0b49c5010fbfc04328969e5b8ca803') in 0.016323 seconds 
+  Import took 0.019210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Prefabs/road.prefab
+  artifactKey: Guid(f374b35168ad66c4ea634f7c80b65625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Prefabs/road.prefab using Guid(f374b35168ad66c4ea634f7c80b65625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e50b163389dd8eb54325e0acd5baee7e') in 0.018638 seconds 
+  Import took 0.021287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Prefabs/rock1_d.prefab
+  artifactKey: Guid(ff41510437ed85642ac2cfbc1fcb58f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Prefabs/rock1_d.prefab using Guid(ff41510437ed85642ac2cfbc1fcb58f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7800d80bd035b5df8b7a29c630cd7fba') in 0.017738 seconds 
+  Import took 0.020691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Prefabs/rock1_c.prefab
+  artifactKey: Guid(75dd5ac51031f524bbeeecc79e2fd8a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Prefabs/rock1_c.prefab using Guid(75dd5ac51031f524bbeeecc79e2fd8a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad022da43a86fdc1b3fbae023eb31a6') in 0.018313 seconds 
+  Import took 0.020797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Prefabs/rock1_b.prefab
+  artifactKey: Guid(09ba3283419aa3f4fb22189f4f57c48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Prefabs/rock1_b.prefab using Guid(09ba3283419aa3f4fb22189f4f57c48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8e015be6651ff1baaeef10e172aacc') in 0.018972 seconds 
+  Import took 0.021448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Prefabs/rock1_a.prefab
+  artifactKey: Guid(ab756f3a026de27409b4563d7b87748c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Prefabs/rock1_a.prefab using Guid(ab756f3a026de27409b4563d7b87748c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3688ba8952acd931993347eee58c5be') in 0.018447 seconds 
+  Import took 0.021362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Final Form Studio/Cliff-scene/Props/Prefabs/palm1.prefab
+  artifactKey: Guid(392e758841337e441bb7d4a4d400c140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final Form Studio/Cliff-scene/Props/Prefabs/palm1.prefab using Guid(392e758841337e441bb7d4a4d400c140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661c3708c166434111024258d7de9c12') in 0.019422 seconds 
+  Import took 0.022031 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003071 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.775 seconds
+Domain Reload Profiling:
+	ReloadAssembly (775ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (626ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (229ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (216ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (54ms)
+				ProcessInitializeOnLoadAttributes (149ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1494 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.3 MB.
+System memory in use after: 72.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1984.
+Total: 2.186100 ms (FindLiveObjects: 0.119100 ms CreateObjectMapping: 0.046600 ms MarkObjects: 2.005300 ms  DeleteObjects: 0.014500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 133.453293 seconds.
+  path: Assets/Prefabs/che.fbx
+  artifactKey: Guid(c73ba25d2cee6504095e88202acc95ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/che.fbx using Guid(c73ba25d2cee6504095e88202acc95ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c9ab704619f168a720c9eeb510ace51') in 0.464257 seconds 
+  Import took 0.467017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.820506 seconds.
+  path: Assets/Prefabs/che.prefab
+  artifactKey: Guid(bee2d9a6ad3cf2d4f964fe8a1379d193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/che.prefab using Guid(bee2d9a6ad3cf2d4f964fe8a1379d193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64cafe1fe77381902d365a70bacdd289') in 0.034283 seconds 
+  Import took 0.037700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.913218 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.006557 seconds 
+  Import took 0.008872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.894365 seconds.
+  path: Assets/Models
+  artifactKey: Guid(86478e18a297e3643b1e69737c777ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(86478e18a297e3643b1e69737c777ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06d193f8e6f94d26ba8219202f7322c2') in 0.013021 seconds 
+  Import took 0.015727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 326.020920 seconds.
+  path: Assets/Models/f50d71ecc6fa49d28d9b1fd980c106b6.fbx.fbx
+  artifactKey: Guid(bc348eedfb58f694a968cb9fa575080a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/f50d71ecc6fa49d28d9b1fd980c106b6.fbx.fbx using Guid(bc348eedfb58f694a968cb9fa575080a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bafe716301c9c83c516719e95ab0083b') in 0.267333 seconds 
+  Import took 0.270111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.070493 seconds.
+  path: Assets/Models/Lamborghini_Countach_LP800.obj
+  artifactKey: Guid(0dc7355e17f6e8442bc4b73568361e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Lamborghini_Countach_LP800.obj using Guid(0dc7355e17f6e8442bc4b73568361e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf552fce41a423e85ab3926e33e91a6') in 0.037526 seconds 
+  Import took 0.040443 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
